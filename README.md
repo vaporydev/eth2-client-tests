@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/ethereum/eth2-client-tests.svg?style=svg)](https://circleci.com/gh/ethereum/eth2-client-tests)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Ethereum 2.0 tests
+# Vapory 2.0 tests
 
 This repository contains a series of sanity tests to be built against Ethereum 2.0 clients.
 
